@@ -1,0 +1,8 @@
+print("Asghar")
+print("Love his Faimily")
+print (9+9)
+print("Asghar")
+print("Love his Faimily")
+print (9+9)
+x = 9+9+22*18
+print(x+9)
